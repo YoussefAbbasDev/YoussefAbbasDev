@@ -1,139 +1,187 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-# YOUSSEF ABBAS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:0f3d2e,100:00FF9C&text=YOUSSEF%20ABBAS&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Software%20Engineering%20Student&descSize=18&descAlignY=60&descColor=c9d1d9" width="100%" />
 
-**FULL-STACK DEVELOPER · SOFTWARE ENGINEERING STUDENT**
+<a href="https://github.com/YoussefAbbasDev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Building+things+that+solve+problems;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Three.js;Exploring+systems%2C+interfaces+%26+AI;Currently+shipping+%3E+perfecting+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Building things that solve problems.  
-Exploring systems, interfaces, and the ideas behind them.
+<br/>
 
-[Portfolio](https://youssef-abbas-portofolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299) · [Email](mailto:youssefabbas722@gmail.com)
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00FF9C?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BASE-EGYPT%20%F0%9F%87%AA%F0%9F%87%AC-0D1117?style=for-the-badge&labelColor=0D1117&color=c9d1d9" />
+<img src="https://komarev.com/ghpvc/?username=YoussefAbbasDev&style=for-the-badge&color=00FF9C&labelColor=0D1117&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<a href="https://youssef-abbas-portofolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:youssefabbas722@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://instagram.com/y_abbas12"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://facebook.com/youssef.abbas.979095"><img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ 3D CONTRIBUTIONS ═══════════════ -->
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
 
 </div>
 
 ---
 
-> `ENGINEERING LOG — 2026`
->
-> A collection of things I build, technologies I explore, and problems I enjoy solving.
+## `~/whoami`
 
-### 01 / PROFILE
-
-I'm Youssef Mohamed Abbas, a software developer and IT student from Egypt interested in building practical, scalable, and thoughtfully designed software.
-
-My focus is full-stack development — from designing interfaces and building APIs to working with databases and understanding how systems fit together.
-
-Currently exploring software architecture, AI integrations, and new ways to build better digital experiences.
-
----
-
-### 02 / CURRENT INTERESTS
-
-| Area | Focus |
-|---|---|
-| `WEB` | React, Node.js, scalable web applications |
-| `BACKEND` | APIs, databases, architecture |
-| `AI` | AI integrations, practical AI applications |
-| `EXPERIMENTS` | 3D web, automation, new technologies |
+```js
+const youssef = {
+  name: "Youssef Mohamed Abbas",
+  role: "Full-Stack Developer",
+  studying: "Software Engineering / IT",
+  from: "Egypt 🇪🇬",
+  focus: ["Scalable web apps", "APIs & architecture", "AI integrations", "3D on the web"],
+  currentlyExploring: ["Software architecture", "AI-powered products", "Three.js worlds"],
+  funFact: "I like building things that people can actually walk around in.",
+  status: "Always shipping 🚀"
+};
+```
 
 ---
 
-### 03 / SELECTED TOOLKIT
+## `⚡ TOOLKIT`
 
-**LANGUAGES**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,threejs&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
 
-**FRONTEND**
-
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF)
-
-**BACKEND & DATABASE**
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4)
-
-**TOOLS & OTHER**
-
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=FF6C37)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
-
----
-
-### 04 / PROJECT ARCHIVE
+</div>
 
 <details>
-<summary><b>Browse projects & experiments</b></summary>
+<summary><b>🧠 Mind-map of how I think about the stack</b></summary>
 
-<br/>
-
-A selection of projects, experiments, and software I've worked on.
-
-Explore my repositories for source code, experiments, and more.
-
-[→ Browse all repositories](https://github.com/YoussefAbbasDev?tab=repositories)
+```mermaid
+mindmap
+  root((Youssef))
+    Frontend
+      React
+      Tailwind
+      Vite
+      Three.js
+    Backend
+      Node.js
+      Express
+      PHP
+    Data
+      MySQL
+      MongoDB
+    Craft
+      Git
+      Docker
+      Postman
+    Exploring
+      AI integrations
+      3D web
+      Automation
+```
 
 </details>
 
 ---
 
-### 05 / GITHUB DATA
+## `📊 LIVE STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefAbbasDev&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" width="49%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YoussefAbbasDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAbbasDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&langs_count=8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAbbasDev&layout=compact&hide_border=true&theme=transparent" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=YoussefAbbasDev&hide_border=true&theme=transparent" width="70%" />
+<img src="https://streak-stats.demolab.com?user=YoussefAbbasDev&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="85%" />
 
 </div>
 
 ---
 
-### 06 / CONTRIBUTION TRACE
+## `🏆 TROPHIES`
 
 <div align="center">
 
-### 06 / CONTRIBUTION TRACE
-
-<div align="center">
-
-<img
-  alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/YoussefAbbasDev/YoussefAbbasDev/output/github-contribution-grid-snake.svg"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=YoussefAbbasDev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
 
 </div>
 
 ---
 
-### 07 / FIND ME
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-111111?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/youssef.abbas.979095)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/y_abbas12)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:youssefabbas722@gmail.com)
-
----
+## `📈 ACTIVITY GRAPH`
 
 <div align="center">
 
-`END OF LOG — MORE EXPERIMENTS IN PROGRESS.`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAbbasDev&bg_color=0D1117&color=00FF9C&line=00FF9C&point_color=FFFFFF&area=true&area_color=00FF9C&hide_border=true" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=YoussefAbbasDev&style=flat-square&color=111111&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+## `🚀 FEATURED PROJECTS`
+
+> Replace `REPO_NAME_1..4` with your real repo names (the ones you want people to see first).
+
+<div align="center">
+
+<a href="https://github.com/YoussefAbbasDev/REPO_NAME_1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAbbasDev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" /></a>
+<a href="https://github.com/YoussefAbbasDev/REPO_NAME_2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAbbasDev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" /></a>
+<a href="https://github.com/YoussefAbbasDev/REPO_NAME_3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAbbasDev&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" /></a>
+<a href="https://github.com/YoussefAbbasDev/REPO_NAME_4"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefAbbasDev&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" /></a>
+
+<br/>
+
+<a href="https://github.com/YoussefAbbasDev?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=00FF9C" /></a>
+
+</div>
+
+---
+
+## `🎯 CURRENT QUESTS`
+
+| Quest | Progress |
+|---|---|
+| 🧱 Master software architecture & system design | ![](https://geps.dev/progress/60?dangerColor=00FF9C&warningColor=00FF9C&successColor=00FF9C) |
+| 🤖 Build practical AI-powered apps | ![](https://geps.dev/progress/50?dangerColor=00FF9C&warningColor=00FF9C&successColor=00FF9C) |
+| 🌐 Push the limits of 3D on the web (Three.js) | ![](https://geps.dev/progress/70?dangerColor=00FF9C&warningColor=00FF9C&successColor=00FF9C) |
+| ⚙️ Automate everything that can be automated | ![](https://geps.dev/progress/55?dangerColor=00FF9C&warningColor=00FF9C&successColor=00FF9C) |
+
+---
+
+## `🐍 CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefAbbasDev/YoussefAbbasDev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YoussefAbbasDev/YoussefAbbasDev/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## `📡 FIND ME`
+
+<div align="center">
+
+<a href="https://youssef-abbas-portofolio.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299">💼 LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:youssefabbas722@gmail.com">✉️ Email</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=7D8590&center=true&vCenter=true&width=600&lines=END+OF+LOG+%E2%80%94+MORE+EXPERIMENTS+IN+PROGRESS." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF9C,50:0f3d2e,100:0D1117&section=footer" width="100%" />
 
 </div>
