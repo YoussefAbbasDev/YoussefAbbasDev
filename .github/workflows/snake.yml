@@ -1,4 +1,3 @@
-
 name: Generate Snake
 
 on:
@@ -12,7 +11,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate contribution snake
         uses: Platane/snk@v3
@@ -24,11 +22,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update contribution snake
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
