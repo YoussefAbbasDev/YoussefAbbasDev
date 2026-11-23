@@ -107,11 +107,20 @@ mindmap
 
 ---
 
-## `🏆 TROPHIES`
+## `🏆 ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YoussefAbbasDev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-00FF9C?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/THREE.JS-3D%20WEB-00FF9C?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI-INTEGRATIONS-00FF9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-MINDED-00FF9C?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=0D1117" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/YoussefAbbasDev?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=00FF9C&logo=github" />
+<img src="https://img.shields.io/github/stars/YoussefAbbasDev?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&labelColor=0D1117&color=00FF9C&logo=github" />
+<img src="https://img.shields.io/github/created-at/YoussefAbbasDev?label=ON%20GITHUB%20SINCE&style=for-the-badge&labelColor=0D1117&color=00FF9C" />
 
 </div>
 
