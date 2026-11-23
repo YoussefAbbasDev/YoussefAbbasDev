@@ -1,21 +1,132 @@
-# 💫 About Me:
-I'm Youssef Mohamed Abbas, a Full-Stack Developer and Computer Science student from Egypt. I enjoy building modern, responsive web applications and exploring new technologies.<br><br>My main technologies include React, JavaScript, Node.js, Express.js, MySQL, Tailwind CSS, and Git/GitHub. I also have an interest in AI, 3D web experiences, and software development.<br><br>I'm constantly learning, building projects, and improving my skills through real-world applications.
+ <div align="center">
 
+# YOUSSEF ABBAS
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.abbas.979095) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_abbas12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssefabbas722@gmail.com) 
+**FULL-STACK DEVELOPER · SOFTWARE ENGINEERING STUDENT**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat-square&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YoussefAbbasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=YoussefAbbasDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YoussefAbbasDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Building things that solve problems.  
+Exploring systems, interfaces, and the ideas behind them.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[Portfolio](https://youssef-abbas-portofolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299) · [Email](mailto:youssefabbas722@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=YoussefAbbasDev&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> `ENGINEERING LOG — 2026`
+>
+> A collection of things I build, technologies I explore, and problems I enjoy solving.
+
+### 01 / PROFILE
+
+I'm Youssef Mohamed Abbas, a software developer and IT student from Egypt interested in building practical, scalable, and thoughtfully designed software.
+
+My focus is full-stack development — from designing interfaces and building APIs to working with databases and understanding how systems fit together.
+
+Currently exploring software architecture, AI integrations, and new ways to build better digital experiences.
+
+---
+
+### 02 / CURRENT INTERESTS
+
+| Area | Focus |
+|---|---|
+| `WEB` | React, Node.js, scalable web applications |
+| `BACKEND` | APIs, databases, architecture |
+| `AI` | AI integrations, practical AI applications |
+| `EXPERIMENTS` | 3D web, automation, new technologies |
+
+---
+
+### 03 / SELECTED TOOLKIT
+
+**LANGUAGES**
+
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF)
+
+**BACKEND & DATABASE**
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4)
+
+**TOOLS & OTHER**
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=FF6C37)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
+
+---
+
+### 04 / PROJECT ARCHIVE
+
+<details>
+<summary><b>Browse projects & experiments</b></summary>
+
+<br/>
+
+A selection of projects, experiments, and software I've worked on.
+
+Explore my repositories for source code, experiments, and more.
+
+[→ Browse all repositories](https://github.com/YoussefAbbasDev?tab=repositories)
+
+</details>
+
+---
+
+### 05 / GITHUB DATA
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YoussefAbbasDev&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAbbasDev&layout=compact&hide_border=true&theme=transparent" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=YoussefAbbasDev&hide_border=true&theme=transparent" width="70%" />
+
+</div>
+
+---
+
+### 06 / CONTRIBUTION TRACE
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/YoussefAbbasDev/YoussefAbbasDev/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+### 07 / FIND ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/youssef-mohamed-zabbas-092542299)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-111111?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/youssef.abbas.979095)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/y_abbas12)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:youssefabbas722@gmail.com)
+
+---
+
+<div align="center">
+
+`END OF LOG — MORE EXPERIMENTS IN PROGRESS.`
+
+<img src="https://komarev.com/ghpvc/?username=YoussefAbbasDev&style=flat-square&color=111111&label=PROFILE+VIEWS" />
+
+</div>
